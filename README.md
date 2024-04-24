@@ -1,6 +1,6 @@
 # Interview_task
 
-## AWS 
+
 ## Creating s3 and adding files
 ![image](https://github.com/lurbaby/interview_task/assets/120603922/754ebf5d-928b-4c17-8da5-e7496ea52ff3)
 
@@ -33,6 +33,11 @@ def lambda_handler(event, context):
             'body': str(e)
         }
 ```
+## Result
+![image](https://github.com/lurbaby/interview_task/assets/120603922/37bf82ca-c1f6-401f-a18a-fb56d17fab72)
+
+
+
 
 ## Docker
 
